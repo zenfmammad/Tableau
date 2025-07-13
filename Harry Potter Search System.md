@@ -19,7 +19,6 @@ Search and filter characters by:
 - Hair & Eye Colour
 - Loyalty
 - Skills
-- Date of Birth / Death
 
 ### 🧪 Potions
 Filter potions based on:
